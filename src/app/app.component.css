@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title {
+  font-size: 24px;
+  color: #333;
+}
+
+.language-select {
+  font-size: 18px;
+  color: #666;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.language-button {
+  background-color: #016ee2;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: background-color 0.4s ease;
+}
+
+.language-button:hover {
+  background-color: #02468f;
+}
+
+.message {
+  font-size: 28px;
+  margin-top: 50px;
+  color: #11253b;
+}
